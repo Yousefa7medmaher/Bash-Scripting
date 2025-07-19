@@ -1,5 +1,6 @@
 # 🐚 Bash Scripting Collection
-![Bash Scripting Banner]("bashImg.jpg")
+![Bash Scripting Banner](bashImg.jpg)
+
 
 Welcome to my Bash scripting repo! Here I share real-world scripts I use for Linux system administration, automation, backups, networking, and DevOps tasks.
 
