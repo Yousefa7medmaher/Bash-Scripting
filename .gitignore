@@ -1,0 +1,28 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.cnf
+
+# Database exports and backup artifacts
+*.sql
+*.sql.gz
+*.dump
+*.dump.gz
+*.tfstate
+*.tfstate.*
+*.part
+*.joining
+checksums.sha256
+
+# Generated operational output
+azure-cost-report-*/
+residency-report-*/
+cloud-residency-evidence-*/
+organized-backups/
+source-backups/
+*.log
